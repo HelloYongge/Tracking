@@ -1,0 +1,9 @@
+header {
+  timestamp: 1599119948340650
+}
+sensor_obj {
+  sensor_type: CAMERA
+  sensor_id: 1
+  cipv {
+  }
+}
